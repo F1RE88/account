@@ -9,8 +9,8 @@ body{
 }
 .login-div{
     background-color: rgba(0, 0, 0, 0.638);
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     margin-top: 90px;
     border-radius: 10px;
 }
@@ -18,31 +18,37 @@ body{
     background-color: rgba(0, 0, 0, 0.639);
     border: none;
     border-radius: 40px;
-    height: 40px;
-    width: 200px;
+    height: 50px;
+    width: 300px;
     color: red;
     text-align: center;
+    font-size: 18px;
 }
 .box2-password{
     background-color: rgba(0, 0, 0, 0.639);
     border: none;
     border-radius: 40px;
-    height: 40px;
-    width: 200px;
+    height: 50px;
+    width: 300px;
     color: red;
     text-align:center;
+    font-size: 18px;
 }
 .help-btn{
     background-color: rgba(0, 0, 0, 0);
     color: blue;
     border: none;
-    font-size: 15px;
+    font-size: 25px;
 }
 .btn{
     color: red;
-    height: 30px;
-    width: 200px;
+    height: 50px;
+    width: 250px;
     border: none;
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.639);
+    font-size: 20px;
+}
+.title{
+    font-size: 40px;
 }
